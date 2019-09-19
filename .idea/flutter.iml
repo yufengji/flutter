@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/city_pickers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/city_pickers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/city_pickers/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/city_pickers/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/flutter_webview_plugin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/flutter_webview_plugin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/flutter_webview_plugin/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/flutter_webview_plugin/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/image_picker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/image_picker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/image_picker/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/image_picker/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/url_launcher/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/url_launcher/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/url_launcher/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mmcm/ios/.symlinks/plugins/url_launcher/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
